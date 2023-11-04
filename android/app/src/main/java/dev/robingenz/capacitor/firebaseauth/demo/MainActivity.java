@@ -1,4 +1,4 @@
-package dev.robingenz.capacitor.firebaseauth.demo;
+package daiware.dpupps.com;
 
 import com.getcapacitor.BridgeActivity;
 

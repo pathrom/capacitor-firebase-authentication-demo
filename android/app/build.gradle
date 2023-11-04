@@ -5,10 +5,10 @@ def keystoreProperties = new Properties()
 keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
 android {
-    namespace "dev.robingenz.capacitor.firebaseauth.demo"
+    namespace "daiware.dpupps.com"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "dev.robingenz.capacitor.firebaseauth.demo"
+        applicationId "daiware.dpupps.com"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
